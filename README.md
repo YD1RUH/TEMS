@@ -99,6 +99,6 @@ Jika Anda belum merakit hardware namun ingin melihat bagaimana Dashboard bekerja
 
 ## 📄 Lisensi
 
-Proyek ini bersifat *Open-Source*. Silakan dikembangkan dan digunakan sesuai kebutuhan untuk mitigasi bencana atau keperluan riset.
+MIT License
 
 *Dibuat untuk mempermudah visibilitas dan respons cepat terhadap aktivitas seismik taktis.*
