@@ -223,7 +223,7 @@ HTML_TEMPLATE = """
 
     <script>
         // Menggunakan Token Cesium Ion Anda
-        Cesium.Ion.defaultAccessToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJiNTc5MjhhYi1kZDQwLTQ2M2EtOTM4OS0wODIwZjkyNzBhZTAiLCJpZCI6Mzk3MjkyLCJpYXQiOjE3NzI1NDY0MDl9.reL1q-jNVlRGFOzxYPi-mvV2VvIuM1-vm3d-RhbxRMg';
+        Cesium.Ion.defaultAccessToken = '#################### ganti token anda ##############################################';
 
         const viewer = new Cesium.Viewer('cesiumContainer', {
             terrainProvider: Cesium.createWorldTerrain(),
