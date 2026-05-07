@@ -2,6 +2,24 @@
 
 Sebuah sistem pemantauan gempa bumi / aktivitas seismik taktis berbasis **Internet of Things (IoT)** menggunakan teknologi komunikasi **LoRa**, **Python**, dan visualisasi **Peta 3D Cesium**.
 
+<div align="center">
+  <table>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github.com/YD1RUH/TEMS/blob/main/image/1.png?raw=true" alt="Preview 1" width="100%">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github.com/YD1RUH/TEMS/blob/main/image/2.png?raw=true" alt="Preview 2" width="100%">
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github.com/YD1RUH/TEMS/blob/main/image/3.png?raw=true" alt="Preview 3" width="50%">
+      </td>
+    </tr>
+  </table>
+</div>
+
 Sistem ini dirancang untuk mendeteksi getaran di lokasi-lokasi terpencil menggunakan node sensor jarak jauh (LoRa), mengumpulkannya di satu Gateway, dan memvisualisasikannya secara *real-time* ke dalam sebuah *Command Center Dashboard* berbasis web dengan peta satelit kontur 3D.
 
 ## ✨ Fitur Utama
